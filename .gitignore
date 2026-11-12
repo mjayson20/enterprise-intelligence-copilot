@@ -1,0 +1,31 @@
+# ─── Secrets ─────────────────────────────────────────────────────────────────
+.env
+*.env
+backend/.env
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# ─── Node.js ──────────────────────────────────────────────────────────────────
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+
+# ─── Generated data (can be regenerated with generate_data.py) ────────────────
+# Keep the data files — they're needed for the demo
+
+# ─── OS files ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── IDE ──────────────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+
+# ─── Uploads ──────────────────────────────────────────────────────────────────
+backend/uploads/

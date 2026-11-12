@@ -1,0 +1,21 @@
+customer_id,customer_name,industry,region,account_manager,annual_revenue,employee_count,customer_since,account_status
+CUST-001,Apex Logistics,Logistics,North America,Sarah Chen,18956905,4062,2017-07-03,Active
+CUST-002,Blue Horizon Tech,Technology,North America,Priya Patel,6334366,9724,2019-09-25,Active
+CUST-003,Cascade Manufacturing,Manufacturing,North America,James Okafor,16113608,8329,2021-10-01,Active
+CUST-004,Delta Financial,Finance,Europe,Priya Patel,28653498,3661,2020-01-14,Active
+CUST-005,Eagle Retail Group,Retail,North America,James Okafor,47351341,6974,2018-10-25,Active
+CUST-006,Frontier Healthcare,Healthcare,Europe,Maria Rodriguez,7359215,1569,2019-04-06,Active
+CUST-007,Global Shipping Co,Shipping,Asia Pacific,Priya Patel,18251694,761,2020-02-25,Active
+CUST-008,Harbor Industries,Industrial,Latin America,Sarah Chen,37546819,4853,2022-01-18,Active
+CUST-009,Ironclad Security,Security,Asia Pacific,Priya Patel,13404268,1189,2015-07-07,Active
+CUST-010,Jade Pharmaceuticals,Pharmaceuticals,Asia Pacific,Sarah Chen,16122331,1704,2019-04-06,Active
+CUST-011,Keystone Analytics,Analytics,Asia Pacific,James Okafor,25342424,5870,2017-05-08,Active
+CUST-012,Lighthouse Media,Media,North America,Priya Patel,43112671,2853,2020-12-27,At Risk
+CUST-013,Meridian Consulting,Consulting,Europe,David Kim,25964823,4472,2022-03-06,Active
+CUST-014,Northern Grid Energy,Energy,Europe,Maria Rodriguez,4253932,3802,2015-05-12,At Risk
+CUST-015,Orbit Software,Software,Latin America,Maria Rodriguez,4941842,3506,2021-05-12,At Risk
+CUST-016,Pacific Ventures,Venture Capital,Asia Pacific,James Okafor,44485744,8229,2019-06-09,At Risk
+CUST-017,Quantum Dynamics,Engineering,Latin America,James Okafor,18275807,2337,2017-10-07,At Risk
+CUST-018,Riverstone Mining,Mining,Middle East,Maria Rodriguez,39730901,7069,2021-07-18,Active
+CUST-019,Summit Aerospace,Aerospace,Europe,James Okafor,34693730,8135,2016-01-08,At Risk
+CUST-020,Titan Construction,Construction,North America,James Okafor,42607191,2671,2022-08-19,Active
